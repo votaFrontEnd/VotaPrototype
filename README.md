@@ -1,2 +1,0 @@
-# VotaPrototype
-Created with CodeSandbox
